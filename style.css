@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
 }
+
 *:focus {
     outline: dashed 1px #0eb4c1;
     outline-offset: 3px ;
